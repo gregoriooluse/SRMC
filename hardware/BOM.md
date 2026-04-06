@@ -12,6 +12,7 @@
 | Schottky Freewheel Diode    | VS-100BGQ100-N4              | 6        | Vishay                        |
 | Gate Driver IC              | LM5106                       | 3        | Texas Instruments             |
 | PWM Series Resistor         | 22 Ω, 0805 or 1206, 1/8 W    | 6        | Generic                       |
+| **Current Sensor**          | **ACS773ECB-200B-PFF-T**     | **3**    | Allegro, ±200 A, 3.3 V supply |
 
 ## MCU Board
 - TMS320F28069M LaunchPad (already owned)
